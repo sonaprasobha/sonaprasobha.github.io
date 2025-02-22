@@ -1,0 +1,30 @@
+/* 
+   Name: sona bijumon prasobha
+   File: ass3biostylesheet.css
+   Date: 22 February 2025
+   Description: CSS file for styling the biography page.
+*/
+
+/* Styling for the main heading */
+h1 {
+    color: hotpink;
+    border-bottom: 10px dotted purple;
+    text-align: center;
+}
+
+/* part 2 headings italic */
+h2 {
+    font-style: italic;
+}
+
+/* Styling for the contact information box */
+.contact-info {
+    background-color: #eeeeee;
+    border: 5px solid purple;
+    padding: 10px;
+}
+
+/* Styling links on hover */
+a:hover {
+    color: green;
+}
