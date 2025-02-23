@@ -1,4 +1,10 @@
 /* General Styles */
+<!--
+    Name: sona bijumon prasobha
+    File: layout1.html
+    Date: 22 February 2025
+     description: a beautiful layout of my website
+    -->
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -6,7 +12,6 @@ body {
     background: #f9f9f9;
     color: #222;
 }
-
 /* Header */
 header {
     text-align: center;
