@@ -3,7 +3,7 @@
    File: coolbox.css
    Date: 22 February 2025
    Description: CSS file for styling a cool-looking box.
-*/
+/*
 
 /* Center the box horizontally */
 body {
@@ -32,6 +32,7 @@ body {
     
     /* Multiple box shadows for depth effect */
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5), -5px -5px 10px rgba(0, 0, 0, 0.3);
+    text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5), -5px -5px 10px rgba(0, 0, 0, 0.3);
     
 }
 
