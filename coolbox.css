@@ -1,0 +1,37 @@
+/* 
+   Name: sona bijumon prasobha
+   File: coolbox.css
+   Date: 22 February 2025
+   Description: CSS file for styling a cool-looking box.
+*/
+
+/* Center the box horizontally */
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+    margin: 0;
+}
+
+/* Styling the main box */
+.coolbox {
+    width: 300px;
+    height: 200px;
+    background-color: #646bc7; /*  background color */
+    color: white;
+    font-size: 1.3rem; /* Using rem unit */
+    text-align: center;
+    padding: 20px;
+    border-radius: 15px; /* Border radius  */
+    border: 2px solid #0b4d79; /*  darker border */
+    
+    /* Linear semi-transparent black gradient */
+    background-image: linear-gradient(to top left, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.2) 30%, rgba(0, 0, 0, 0.2) 100%);
+    
+    /* Multiple box shadows for depth effect */
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5), -5px -5px 10px rgba(0, 0, 0, 0.3);
+    
+}
+
